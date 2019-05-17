@@ -37,3 +37,44 @@ Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_7_Introductory_Time
 
 ![GitHub Logo](/quad1.png)
 Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_7_Introductory_Time_Series_with_R/blob/master/choc.ts.png)
+
+![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_7_Introductory_Time_Series_with_R/blob/master/garch.png)
+
+
+![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_7_Introductory_Time_Series_with_R/blob/master/garchresid.png)
+
+
+![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_7_Introductory_Time_Series_with_R/blob/master/logvisit.png)
+
+
+![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_7_Introductory_Time_Series_with_R/blob/master/predict_garch_stemp.png)
+
+
+![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_7_Introductory_Time_Series_with_R/blob/master/predictchoc.png)
+
+
+![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_7_Introductory_Time_Series_with_R/blob/master/squareresidual.png)
+
+
+![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_7_Introductory_Time_Series_with_R/blob/master/stemp.png)
+
+
+![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_7_Introductory_Time_Series_with_R/blob/master/stockdiff.png)
+
+
+![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_7_Introductory_Time_Series_with_R/blob/master/stockts.png)
+
+
+
+
+
+
